@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/65528_colours_rgb_icon.png</file>
+        <file>img/352432_info_icon.png</file>
+        <file>img/7150012_led_icon.png</file>
+        <file>img/9057027_maximize_alt_icon.png</file>
+        <file>img/Fa-Team-Fontawesome-FontAwesome-Window-Minimize.512.png</file>
+        <file>img/Icons8-Ios7-Industry-Lcd.512.png</file>
+        <file>img/Iconsmind-Outline-Close.512.png</file>
+        <file>img/Fa-Team-Fontawesome-FontAwesome-Minimize.512.png</file>
+        <file>img/Iconoir-Team-Iconoir-Sidebar-collapse.512.png</file>
+        <file>img/Iconoir-Team-Iconoir-Sidebar-expand.512.png</file>
+        <file>img/led (1).png</file>
+        <file>img/led (2).png</file>
+        <file>img/led.png</file>
+        <file>img/lcd.png</file>
+        <file>img/lcd1.png</file>
+    </qresource>
+</RCC>
